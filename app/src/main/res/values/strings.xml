@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySlash</string>
+    <string name="Username">Escribir Usuario</string>
+    <string name="password">Escribir Contraseña</string>
+    <string name="password2">Reescribir Contraseña</string>
+    <string name="age">Escribir Edad</string>
+    <string name="mail">Escribir Correo</string>
+    <string name="TUsername">Usuario</string>
+    <string name="Tpassword">Contraseña</string>
+    <string name="Tage">Edad</string>
+    <string name="Tmail">Correo</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="forget">My Application</string>
+    <string name="olvid_mi_contrase_a">Olvidé mi contraseña</string>
+</resources>
